@@ -1,18 +1,9 @@
 Variable,Nom complet,Définition,Unité,Source,Période,Géographie
-year,Année,Année de la mesure,année,Banque Mondiale,2000-2023,Bénin
-population,Population totale,Nombre total d’habitants,personnes,Banque Mondiale,2000-2023,Bénin
-population_urbaine,Population urbaine,Nombre d’habitants en milieu urbain,personnes,Banque Mondiale,2000-2023,Bénin
-taux_croissance_pop,Taux de croissance de la population,Variation annuelle de la population totale,%,Banque Mondiale,2000-2023,Bénin
-gdp_usd,PIB,Produit Intérieur Brut en USD courants,USD,Banque Mondiale,2000-2023,Bénin
-gdp_per_capita,PIB par habitant,PIB par habitant = PIB / population,USD/personne,Banque Mondiale,2000-2023,Bénin
-inflation,Inflation,Variation annuelle des prix à la consommation,%,Banque Mondiale,2000-2023,Bénin
-taux_chomage,Taux de chômage,Proportion de la population active au chômage,%,Banque Mondiale,2000-2023,Bénin
-exportations,Exportations,Valeur totale des exportations de biens et services,USD,Banque Mondiale,2000-2023,Bénin
-esperance_vie,Espérance de vie,Espérance de vie à la naissance,années,Banque Mondiale,2000-2023,Bénin
-alphabetisation,Taux d'alphabétisation adulte,Pourcentage d’adultes alphabétisés,%,Banque Mondiale,2000-2023,Bénin
-scolarisation_primaire,Taux de scolarisation primaire,Taux de scolarisation dans l’enseignement primaire,%,Banque Mondiale,2000-2023,Bénin
-nb_participants_olympiques,Participants aux JO,Nombre de participants béninois aux Jeux Olympiques,personnes,Wikipedia,2000-2023,Bénin
 primary_enrolment_gross,Scolarisation primaire (taux brut),Gross enrolment ratio - primaire,%,World Bank (WDI),2000-2023,Bénin
 adult_literacy_pct,Taux d'alphabétisation adulte,% d'adultes (15+) sachant lire et écrire,%,World Bank (WDI),2000-2023,Bénin
-life_expectancy,Espérance de vie à la naissance,Espérance de vie totale (années),années,World Bank (WDI),2000-2023,Bénin
-under5_mortality_per1000,Mortalité <5 ans,Taux de mortalité des moins de 5 ans (par 1000 naissances),pour 1000,World Bank (WDI),2000-2023,Bénin
+life_expectancy,Espérance de vie à la naissance,Espérance de vie totale (années),années,WHO,2000-2023,Bénin
+under5_mortality_per1000,Mortalité <5 ans,Taux de mortalité des moins de 5 ans (par 1000 naissances),pour 1000,WHO,2000-2023,Bénin
+primary_enrolment_gross,Scolarisation primaire (taux brut),Gross enrolment ratio - primaire,%,World Bank (WDI),2000-2023,Bénin
+adult_literacy_pct,Taux d'alphabétisation adulte,% d'adultes (15+) sachant lire et écrire,%,World Bank (WDI),2000-2023,Bénin
+life_expectancy,Espérance de vie à la naissance,Espérance de vie totale (années),années,WHO,2000-2023,Bénin
+under5_mortality_per1000,Mortalité <5 ans,Taux de mortalité des moins de 5 ans (par 1000 naissances),pour 1000,WHO,2000-2023,Bénin
