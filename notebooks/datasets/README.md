@@ -5,6 +5,9 @@ Nom : Olivier FATOMBI
 Date : 20/09/2025
 Projet : Visualisation de données pour l’Agence Nationale d’Identification des Personnes (Bénin)
 
+# ================================
+# Tâche 1
+# ================================
 
 # 1- Objectif du projet
 
@@ -84,3 +87,19 @@ Dataset final prêt à l’analyse pour la Tâche 2 (exploration et visualisatio
 Documentation complète des variables et anomalies.
 
 Tous les fichiers sont disponibles sur le dépôt GitHub ou peuvent être inclus dans un zip pour soumission.
+
+
+# ================================
+# Tâche 2
+# ================================
+
+# Début de la tâche 2
+Nous allons enrichir le datatest de base en y ajoutant de nouveaux indicateurs.
+
+# 1- Charger le dataset existant
+
+# 2- Télécharger les nouveaux indicateurs
+
+# 3- Fusionner avec le datatest de base
+
+# 4- Reprendre l'étape 1 et enregistrer
